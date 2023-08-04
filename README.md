@@ -20,8 +20,8 @@ npm install
 ```bash
 -i, --inputFile string          Input CSV file path (planetary_systems_complete.csv)              
 -o, --outputFile string         Output file path (output.(nd)json             
--f, --outputFormat string       Output data format: 'json' or 'ndjson'.       
--m, --missingDataToken string   Replace missing data with this token.         
+-f, --outputFormat string       Output data format: 'json' or 'ndjson (default)'.       
+-m, --missingDataToken string   Replace missing data with this token (MISSING).         
 -c, --checkTypes string         Check types (true)
 -e, --errorToken string         Value for calculated fields with errors (ERROR)
 -h, --help string               Output this usage guide    
