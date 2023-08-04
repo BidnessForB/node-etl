@@ -1,0 +1,26 @@
+{
+  "name": "etl-streams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^7.0.1",
+    "csvtojson": "^2.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonchurch/etl-streams-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonchurch/etl-streams-starter/issues"
+  },
+  "homepage": "https://github.com/jonchurch/etl-streams-starter#readme",
+  "description": ""
+}
