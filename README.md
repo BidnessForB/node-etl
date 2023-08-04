@@ -12,7 +12,6 @@ Some [thoughts](https://github.com/BidnessForB/node-etl/blob/main/how-we-got-her
 ```bash
 git clone git@github.com:BidnessForB/node-etl.git
 npm install
-node app.js <options>
 ```
 ## Running
 `node app.js <options>`
