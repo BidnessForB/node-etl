@@ -6,7 +6,7 @@ This app uses the [Planetary Systems Composite table from the NASA Expolanet Arc
 
 ## Background
 
-Some [thoughts](https://github.com/BidnessForB/node-etl/blob/main/how-we-got-here.md) on the thought process and generally meandering path to create this hack
+Some [thoughts](https://github.com/BidnessForB/node-etl/blob/main/how-we-got-here.md) on the thought process and generally meandering path I followed to create this hack
 
 ## Getting Started
 ```bash
