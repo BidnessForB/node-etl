@@ -14,6 +14,8 @@ git clone git@github.com:BidnessForB/node-etl.git
 npm install
 node app.js <options>
 ```
+## Running
+`node app.js <options>`
 
 ## Options
 ```bash
